@@ -15,7 +15,8 @@
 - 🔭 Currently learning **MERN Stack**  
 - ⚡ Love exploring **open-source & real-world projects**  
 - 🎯 Focused on writing clean, efficient, and scalable code  
-- ☕ Code + Gym + Repeat = My lifestyle  
+- ☕ Passionate about tech, learning, and self-growth  
+ 
 
 ---
 
