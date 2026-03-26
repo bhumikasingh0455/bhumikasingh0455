@@ -16,7 +16,6 @@
 - ⚡ Love exploring **open-source & real-world projects**  
 - 🎯 Focused on writing clean, efficient, and scalable code  
 - ☕ Passionate about tech, learning, and self-growth  
- 
 
 ---
 
@@ -60,30 +59,26 @@
   <a href="mailto:bhumikasingh0407@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/devansh-code" target="_blank">
+
+  <a href="https://www.linkedin.com/in/bhumika-singh-081096338/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Dev0ps404/" target="_blank">
+
+  <a href="https://leetcode.com/problemset/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/devanshaadhya" target="_blank">
+
+  <a href="https://www.hackerrank.com/profile/_2415000821" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/bhumikasingh_2006/" target="_blank">     
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />   
-  </a> 
 </p>
-
-
 
 ---
 
-
 ## 💡 Quote to Code By
-*"Code is like humor — when you have to explain it, it’s bad."*  
--
+*"Code is like humor — when you have to explain it, it’s bad."*
+
 ---
 
 ### ✨ Fun Fact  
-💡 *“Can debug faster than I can cook Maggi 🍜💻”*  
--
+💡 *“Can debug faster than I can cook Maggi 🍜💻”*
