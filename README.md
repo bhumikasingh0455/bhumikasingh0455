@@ -12,10 +12,26 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently learning **MERN Stack**  
-- ⚡ Love exploring **open-source & real-world projects**  
-- 🎯 Focused on writing clean, efficient, and scalable code  
-- ☕ Passionate about tech, learning, and self-growth  
+
+<table>
+<tr>
+<td width="60%">
+
+- 🌱 Currently learning **MERN Stack**
+- ⚡ Love exploring **open-source & real-world projects**
+- 🎯 Focused on writing clean, efficient, scalable code
+- ☕ Code + Learn + Glow 🌸= My lifestyle
+- 📫 Reach me at **bhumikasingh0407@gmail.com**
+- ⚡ Fun fact: I love Drawing 🎨, Travelling 🌍 and Coding 💻
+
+</td>
+
+<td width="40%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
