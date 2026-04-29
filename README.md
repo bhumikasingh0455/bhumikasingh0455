@@ -26,7 +26,6 @@
 </td>
 
 <td width="40%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
 </td>
 
 </tr>
