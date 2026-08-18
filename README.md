@@ -32,8 +32,6 @@
 <table>
 <tr>
 
-<td width="58%">
-
 ### 👨‍💻 Developer
 
 - 🌱 Currently learning **MERN Stack**
@@ -50,13 +48,7 @@
 * 🌍 Travelling
 * 💻 Coding
 
-</td>
 
-<td width="42%">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
-
-</td>
 
 </tr>
 </table>
